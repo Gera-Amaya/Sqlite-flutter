@@ -1,0 +1,10 @@
+^C:\TID51M\SQL-FLUTTER\BUILD\WINDOWS\X64\_DEPS\SQLITE3-SUBBUILD\CMAKEFILES\0E2B553F3367A556AD0642527C9E683D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild -BC:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/sqlite3-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/0e2b553f3367a556ad0642527c9e683d/sqlite3-populate.rule"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/0eae7ba22a671ac206678faeaf2f926f/sqlite3-populate-complete.rule"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/aa5ca054a9048101c6121b281a438508/sqlite3-populate-build.rule"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/aa5ca054a9048101c6121b281a438508/sqlite3-populate-configure.rule"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/aa5ca054a9048101c6121b281a438508/sqlite3-populate-download.rule"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/aa5ca054a9048101c6121b281a438508/sqlite3-populate-install.rule"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/aa5ca054a9048101c6121b281a438508/sqlite3-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/aa5ca054a9048101c6121b281a438508/sqlite3-populate-patch.rule"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/aa5ca054a9048101c6121b281a438508/sqlite3-populate-test.rule"
+		},
+		{
+			"file" : "C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/aa5ca054a9048101c6121b281a438508/sqlite3-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sqlite3-populate"
+		],
+		"name" : "sqlite3-populate"
+	}
+}

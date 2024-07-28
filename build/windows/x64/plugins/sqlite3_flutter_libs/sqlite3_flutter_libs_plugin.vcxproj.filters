@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\tid51m\SQL-Flutter\windows\flutter\ephemeral\.plugin_symlinks\sqlite3_flutter_libs\windows\sqlite3_flutter_libs_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\tid51m\SQL-Flutter\windows\flutter\ephemeral\.plugin_symlinks\sqlite3_flutter_libs\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{641F53D3-5C21-32B7-8993-FF8172C2D9D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

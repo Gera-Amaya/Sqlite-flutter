@@ -1,0 +1,1 @@
+ C:\\tid51m\\SQL-Flutter\\.dart_tool\\flutter_build\\9e1d3a77a58f326ff2a818a23a251a5f\\native_assets.yaml: 

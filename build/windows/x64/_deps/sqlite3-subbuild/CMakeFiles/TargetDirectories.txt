@@ -1,0 +1,3 @@
+C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate.dir
+C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/tid51m/SQL-Flutter/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/ZERO_CHECK.dir
